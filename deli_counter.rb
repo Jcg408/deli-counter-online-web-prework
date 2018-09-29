@@ -28,6 +28,6 @@ def now_serving (deli)
   else
      puts "Now serving #{deli.first}."
      deli.shift
-  end
+
  end
 end
